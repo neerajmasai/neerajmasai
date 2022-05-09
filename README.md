@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Neeraj, full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Neeraj, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭I'm currently working on [Google Search Engine Clone](https://google-search-engine-eight.vercel.app/)  
@@ -73,23 +73,17 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/neerajmasai" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12056503/neeraj-malwal" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://linkedin.com/in/neeraj-malwal" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://medium.com/https://medium.com/@neeraj_fw10_110/how-i-made-my-first-website-clone-and-how-you-can-too-4f20bad0a4" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -101,6 +95,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=neerajmasai&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+
+## Recent Blog Posts  
   
 
 <br/>  
