@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Neeraj, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Neeraj, full-stack developer (MERN) 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭I'm currently working on [Google Search Engine Clone](https://google-search-engine-eight.vercel.app/)  
