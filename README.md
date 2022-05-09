@@ -79,7 +79,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12056503/neeraj-malwal" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/neeraj-malwal" target="_blank">
+<a href="https://www.linkedin.com/in/neeraj-malwal-40070a1a7/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/https://medium.com/@neeraj_fw10_110/how-i-made-my-first-website-clone-and-how-you-can-too-4f20bad0a4" target="_blank">
