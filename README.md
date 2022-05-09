@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Neeraj, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Neeraj, full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭I'm currently working on [Google Search Engine Clone](https://google-search-engine-eight.vercel.app/)  
@@ -101,9 +101,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=neerajmasai&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
